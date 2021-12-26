@@ -8,7 +8,7 @@ const Navbar = () => {
     >
       <div className="container">
         <a className="navbar-brand js-scroll-trigger" href="#hero">
-          IRFAN BAYU
+          IRFAN BAYU SETIAWAN
         </a>
         <button
           className="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded"
