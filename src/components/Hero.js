@@ -10,7 +10,9 @@ const Hero = () => {
           src="assets/img/avataaars.svg"
           alt=""
         />
-        <h1 className="masthead-heading text-uppercase mb-0">IRFAN BAYU</h1>
+        <h1 className="masthead-heading text-uppercase mb-0">
+          IRFAN BAYU SETIAWAN
+        </h1>
         <div className="divider-custom divider-light">
           <div className="divider-custom-line"></div>
           <div className="divider-custom-icon">
