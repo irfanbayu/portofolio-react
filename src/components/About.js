@@ -18,10 +18,12 @@ const About = () => {
         <div className="row">
           <div className="col-lg-4 ml-auto">
             <p className="lead">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam
-              praesentium ullam id repellat vel perspiciatis debitis autem.
-              Nobis, expedita ipsum perferendis culpa ipsa quam reiciendis.
-              Incidunt nemo optio labore sit?
+              Experienced Production Planning with a demonstrated history of
+              working in the manufacturing industry. Skilled in Programming,
+              Design Graphics, Planning Production, and Photography. Strong
+              interest in Front-end Developer and UI/UX Design with a Bachelor
+              of Computer Science (S. Kom.) focused in informatics engineering
+              from the University of Mercu Buana
             </p>
           </div>
           <div className="col-lg-4 mr-auto">
