@@ -18,36 +18,43 @@ const Footer = () => {
             <h4 className="text-uppercase mb-4">Around the Web</h4>
             <a
               className="btn btn-outline-light btn-social mx-1"
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/irfanbayusetiawan/"
+              target="_blank"
+              rel="noreferrer noopener"
             >
               <i className="fab fa-fw fa-facebook-f"></i>
             </a>
             <a
               className="btn btn-outline-light btn-social mx-1"
-              href="https://www.twitter.com"
+              href="https://twitter.com/bayuhuuu"
+              target="_blank"
+              rel="noreferrer noopener"
             >
               <i className="fab fa-fw fa-twitter"></i>
             </a>
             <a
               className="btn btn-outline-light btn-social mx-1"
-              href="https://www.linkedin.com"
+              href="https://www.instagram.com/bayuhuuu/"
+              target="_blank"
+              rel="noreferrer noopener"
             >
-              <i className="fab fa-fw fa-linkedin-in"></i>
+              <i className="fab fa-fw fa-instagram"></i>
             </a>
             <a
               className="btn btn-outline-light btn-social mx-1"
-              href="https://www.dribbble.com"
+              href="https://www.linkedin.com/in/irfan-bayu-setiawan/"
+              target="_blank"
+              rel="noreferrer noopener"
             >
-              <i className="fab fa-fw fa-dribbble"></i>
+              <i className="fab fa-fw fa-linkedin-in"></i>
             </a>
           </div>
           <div className="col-lg-4">
-            <h4 className="text-uppercase mb-4">About Freelancer</h4>
+            <h4 className="text-uppercase mb-4">ALL RIGHTS RESERVED</h4>
             <p className="lead mb-0">
               <small>
-                Freelance is a free to use, MIT licensed Bootstrap theme created
-                by
-                <a href="http://startbootstrap.com">Start Bootstrap</a>.
+                ©2022 IRFAN BAYU SETIAWAN, licensed Bootstrap theme created by
+                <a href="http://startbootstrap.com"> Start Bootstrap</a>.
               </small>
             </p>
           </div>

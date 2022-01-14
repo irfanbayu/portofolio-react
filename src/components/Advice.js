@@ -29,7 +29,7 @@ const Advice = () => {
     <div className="copyright py-4 text-center text-white">
       <div className="container">
         <p className="lead mt-3">{advice}</p>
-        <p>- Me.</p>
+        <p>- Anonym.</p>
         <button onClick={handleClick} className="btn btn-primary">
           <i className="fas fa-sync fa-fw"></i>
         </button>

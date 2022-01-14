@@ -16,7 +16,7 @@ const About = () => {
           <div className="divider-custom-line"></div>
         </div>
         <div className="row">
-          <div className="col-lg-4 ml-auto">
+          <div className="ml-auto">
             <p className="lead">
               Experienced Production Planning with a demonstrated history of
               working in the manufacturing industry. Skilled in Programming,
@@ -26,19 +26,19 @@ const About = () => {
               from the University of Mercu Buana
             </p>
           </div>
-          <div className="col-lg-4 mr-auto">
+          {/* <div className="col-lg-4 mr-auto">
             <p className="lead">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
               voluptatem, itaque inventore, dolorem perspiciatis reiciendis
               ratione modi quod quasi nihil quae illo dicta similique laboriosam
               repellendus error hic eum omnis.
             </p>
-          </div>
+          </div> */}
         </div>
         <div className="text-center mt-4">
           <a
             className="btn btn-xl btn-outline-light"
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQGYz_vpcfJr1gAAAX5VFa96sauqAmrj5x675n1Pp9YX139eDcAaacpXClsKXf7wzuRXXaGLiQ67V9Ak9eDcHTgQ854tHBhKzrUclO6pPoja6Lk2awq08gVSuWczAq-zNqhsOsHEt_QZ_lMI5LLdQZwYUGUEMcrR2ak1MHjEXROMYxr7htyGb3pU8ZjCihyCQGO_QuGIBXktvTVnHB7BFlyM6Ulph6XAyy-O6Kx2KzrAsM9CSJRn5kXRhLowff_WhxYTjqYwTbGYm036iPyUJ8tHeFOrnDvU_6Fj8sV33nmCHpmWfyUbjuTHa_8Rt9UocsZQJR5IQ8DKyRxHRJUiXhBhwRmIqkLxTVKubKFXolDSY0WPcB7IgTK0TZjO5l36via1v4EozYNspQZWDF1WUY2g2wJ9vLxJHlopUwdd6PWwBgjY14XWCHBcfd2zjS9pyTMB9i1mfuTObA-ClHwYd02yLnaanM3HJKPkjod8_OhaDXdYHNigYhSQKmf2vSW4ftvj2uZ9TF31W-rtHZpjiQ&x-ambry-um-filename=Profile.pdf"
           >
             <i className="fas fa-download mr-2"></i>
             Download My CV
